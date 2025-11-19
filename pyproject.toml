@@ -75,7 +75,7 @@ dev = [
 ]
 
 docker = [
-    "gunicorn>=21.2.0,<22.0.0",  # Production WSGI server
+    "gunicorn>=21.2.0,<24.0.0",  # Production WSGI server
 ]
 
 all = [
