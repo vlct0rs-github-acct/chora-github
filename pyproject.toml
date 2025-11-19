@@ -42,7 +42,7 @@ dependencies = [
 
     # CLI dependencies
     "click>=8.1.0,<9.0.0",
-    "rich>=13.0.0,<14.0.0",  # For rich CLI output
+    "rich>=13.0.0,<15.0.0",  # For rich CLI output
     "pyyaml>=6.0.0,<7.0.0",  # For YAML output format
 
     # REST API dependencies
